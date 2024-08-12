@@ -1,7 +1,6 @@
 """
 Nesse programa, usarei POO, Estrutura de Dados e SQL para registrar e ler os registros de um estoque, incluirei persistencia de dados com txt
 Feito por Pedro Henrique
-https://www.youtube.com/watch?v=SpHp0IfhorY
 """
 
 from Produto import Produto
