@@ -1,3 +1,4 @@
 Nome : Valor : Descricao : Categoria : Codigo
 Jujuba : 1.23 : Esse produto eh: Jujuba de valor 1.23$ : Doces : 8981350
 Laranja : 3.21 : Esse produto eh: Laranja de valor 3.21$ : Frutas : 2899526
+papel : 4.58 : Esse produto eh: papel de valor 4.58$ : escritorio : 1256242

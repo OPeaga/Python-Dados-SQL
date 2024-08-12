@@ -1,10 +1,10 @@
 from typing import Any
 import random
 
-class Produto:
-  def __init__(self, nome, descricao, precoUnitario, categoria):
-    self.__nome = nome
-    self.__categoria = categoria
+class Produto: 
+  def __init__(self, nome : str, descricao, precoUnitario, categoria : str):
+    self.__nome = nome.lower()
+    self.__categoria = categoria.lower()
     self.__codigo = self.createCodigo()
     self.__descricao = descricao
     self.__precoUnitario = precoUnitario
