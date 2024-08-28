@@ -8,7 +8,6 @@ import DAO.DAO_PRODUTO as DAO_PRODUTO
 from DAO.DB import DB
 
 
-
 def main():
   print("Bem vindo ao sistema de Cadastro de Produtos")
   answer = 0
